@@ -1627,5 +1627,167 @@
             "phone_number": "985-454-7788"
         },
         "num_rooms": 1
+    },
+    {
+        "hotel_name": "Kyatt Hotel",
+        "customer": {
+            "name": "Alex Fregoso",
+            "email": "afreg@gmail.com",
+            "phone_number": "985-363-7485"
+        },
+        "num_rooms": 2
+    },
+    {
+        "hotel_name": "Kyatt Hotel",
+        "customer": {
+            "name": "Carolyn Meyers",
+            "email": "meyersc@gmail.com",
+            "phone_number": "857-665-8574"
+        },
+        "num_rooms": 1
+    },
+    {
+        "hotel_name": "Hotel Harris",
+        "customer": {
+            "name": "Ruben Alvarez",
+            "email": "rubenalv@gmail.com",
+            "phone_number": "985-454-7788"
+        },
+        "num_rooms": 2
+    },
+    {
+        "hotel_name": "Hotel Harris",
+        "customer": {
+            "name": "Arian Reyes",
+            "email": "areyes@mitec.com",
+            "phone_number": "859-587-7458"
+        },
+        "num_rooms": 1
+    },
+    {
+        "hotel_name": "Kyatt Hotel",
+        "customer": {
+            "name": "Alex Fregoso",
+            "email": "afreg@gmail.com",
+            "phone_number": "985-363-7485"
+        },
+        "num_rooms": 2
+    },
+    {
+        "hotel_name": "Kyatt Hotel",
+        "customer": {
+            "name": "Carolyn Meyers",
+            "email": "meyersc@gmail.com",
+            "phone_number": "857-665-8574"
+        },
+        "num_rooms": 1
+    },
+    {
+        "hotel_name": "Hotel Harris",
+        "customer": {
+            "name": "Ruben Alvarez",
+            "email": "rubenalv@gmail.com",
+            "phone_number": "985-454-7788"
+        },
+        "num_rooms": 2
+    },
+    {
+        "hotel_name": "Hotel Harris",
+        "customer": {
+            "name": "Arian Reyes",
+            "email": "areyes@mitec.com",
+            "phone_number": "859-587-7458"
+        },
+        "num_rooms": 1
+    },
+    {
+        "hotel_name": "Kyatt Hotel",
+        "customer": {
+            "name": "John Doe",
+            "email": "johndoe@email.com",
+            "phone_number": "123-456-7890"
+        },
+        "num_rooms": 2
+    },
+    {
+        "hotel_name": "Kyatt Hotel",
+        "customer": {
+            "name": "Alex Fregoso",
+            "email": "afreg@gmail.com",
+            "phone_number": "985-363-7485"
+        },
+        "num_rooms": 2
+    },
+    {
+        "hotel_name": "Kyatt Hotel",
+        "customer": {
+            "name": "Carolyn Meyers",
+            "email": "meyersc@gmail.com",
+            "phone_number": "857-665-8574"
+        },
+        "num_rooms": 1
+    },
+    {
+        "hotel_name": "Hotel Harris",
+        "customer": {
+            "name": "Ruben Alvarez",
+            "email": "rubenalv@gmail.com",
+            "phone_number": "985-454-7788"
+        },
+        "num_rooms": 2
+    },
+    {
+        "hotel_name": "Hotel Harris",
+        "customer": {
+            "name": "Arian Reyes",
+            "email": "areyes@mitec.com",
+            "phone_number": "859-587-7458"
+        },
+        "num_rooms": 1
+    },
+    {
+        "hotel_name": "Kyatt Hotel",
+        "customer": {
+            "name": "Alex Fregoso",
+            "email": "afreg@gmail.com",
+            "phone_number": "985-363-7485"
+        },
+        "num_rooms": 2
+    },
+    {
+        "hotel_name": "Kyatt Hotel",
+        "customer": {
+            "name": "Carolyn Meyers",
+            "email": "meyersc@gmail.com",
+            "phone_number": "857-665-8574"
+        },
+        "num_rooms": 1
+    },
+    {
+        "hotel_name": "Hotel Harris",
+        "customer": {
+            "name": "Ruben Alvarez",
+            "email": "rubenalv@gmail.com",
+            "phone_number": "985-454-7788"
+        },
+        "num_rooms": 2
+    },
+    {
+        "hotel_name": "Hotel Harris",
+        "customer": {
+            "name": "Arian Reyes",
+            "email": "areyes@mitec.com",
+            "phone_number": "859-587-7458"
+        },
+        "num_rooms": 1
+    },
+    {
+        "hotel_name": "Hotel Harris",
+        "customer": {
+            "name": "Ruben Alvarez",
+            "email": "rubenalv@gmail.com",
+            "phone_number": "985-454-7788"
+        },
+        "num_rooms": 1
     }
 ]

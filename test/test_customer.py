@@ -34,10 +34,10 @@ class TestCustomerMethods(unittest.TestCase):
 
     def test_create_customer(self):
         """Test creating a new customer"""
-        Customer.create_customer("John Doe", "johndoe@email.com",
+        Customer.create_customer("John Wayne", "johnwayne@gmail.com",
                                  "123-456-7890")
         customers = Customer.get_customers()
-        self.assertTrue(any(c.name == "John Doe" for c in customers))
+        self.assertTrue(any(c.name == "John Wayne" for c in customers))
 
     def test_delete_customer(self):
         """Test deleting a customer."""
@@ -55,12 +55,12 @@ class TestCustomerMethods(unittest.TestCase):
 
     def test_modify_customer_info(self):
         """Test modifying customer info"""
-        Customer.create_customer("Modify Me", "modify@email.com",
+        Customer.create_customer("Anne Frank", "annefrank@gmail.com",
                                  "111-222-3333")
-        Customer.modify_customer_info("Modify Me",
-                                      new_email="modified@email.com")
+        Customer.modify_customer_info("Anne Frank",
+                                      new_email="franka@gmail.com")
         customers = Customer.get_customers()
-        self.assertTrue(any(c.email == "modified@email.com"
+        self.assertTrue(any(c.email == "franka@gmail.com"
                             for c in customers))
 
 
