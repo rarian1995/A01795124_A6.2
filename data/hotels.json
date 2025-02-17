@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Hotel Harris",
+        "address": "456 Frontier Drive",
+        "rooms": 100
+    },
+    {
+        "name": "Kyatt Hotel",
+        "address": "786 Mountain View Rd",
+        "rooms": 50
+    }
+]

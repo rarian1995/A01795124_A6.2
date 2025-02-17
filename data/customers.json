@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Arian Reyes",
+        "email": "areyes@mitec.com",
+        "phone_number": "859-587-7458"
+    },
+    {
+        "name": "Alex Fregoso",
+        "email": "afreg@gmail.com",
+        "phone_number": "985-363-7485"
+    },
+    {
+        "name": "Carolyn Meyers",
+        "email": "meyersc@gmail.com",
+        "phone_number": "857-665-8574"
+    },
+    {
+        "name": "Ruben Alvarez",
+        "email": "rubenalv@gmail.com",
+        "phone_number": "985-454-7788"
+    }
+]
